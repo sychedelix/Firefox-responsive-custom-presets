@@ -8,4 +8,10 @@ Open [about:config](about:config "about:config") and search for `devtools.respon
 ### Test
 Just go to `Fireofx > Web development > Adaptive view` or use the keyboard shortcut `Ctrl+Shift+M` (not sure about the translation).
 
+##License
+
+devtools_responsive_presets.json is licensed under the &#9786; license. (http://licence.visualidiot.com/)
+
 Enjoy ;)
+
+
