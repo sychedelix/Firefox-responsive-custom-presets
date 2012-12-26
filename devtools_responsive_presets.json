@@ -1,0 +1,62 @@
+[
+    {
+        "key": "320x480",
+        "name": "iPhone 3G/3GS",
+        "width": 320,
+        "height": 480
+    },
+    {
+        "key": "480x800",
+        "name": "Google Nexus one",
+        "width": 480,
+        "height": 800
+    },
+    {
+        "key": "640x960",
+        "name": "iPhone 4",
+        "width": 640,
+        "height": 960
+    },
+    {
+        "key": "640×1136",
+        "name": "iPhone 5",
+        "width": 640,
+        "height": 1136
+    },
+    {
+        "key": "768x1024",
+        "name": "iPad",
+        "width": 768,
+        "height": 1024
+    },
+        {
+        "key": "800x600",
+        "name": "Old computers",
+        "width": 800,
+        "height": 600
+    },
+    {
+        "key": "1024x600",
+        "name": "Most Netbooks",
+        "width": 1024,
+        "height": 600
+    },
+    {
+        "key": "1280x800",
+        "name": "MacBook Air",
+        "width": 1280,
+        "height": 800
+    },
+    {
+        "key": "1366x768",
+        "name": "Some Laptops",
+        "width": 1366,
+        "height": 768
+    },
+    {
+        "key": "1440x900",
+        "name": "MacBook Pro 15",
+        "width": 1440,
+        "height": 900
+    }
+]
