@@ -1,5 +1,17 @@
 [
     {
+        "key": "240x320",
+        "name": "Croppy Android",
+        "width": 240,
+        "height": 320
+    },
+    {
+        "key": "295x515",
+        "name": "Nicer Android",
+        "width": 295,
+        "height": 515
+    },
+    {
         "key": "320x480",
         "name": "iPhone 3G/3GS",
         "width": 320,
@@ -12,13 +24,19 @@
         "height": 800
     },
     {
+        "key": "600x1024",
+        "name": "Kindle Fire Portrait",
+        "width": 600,
+        "height": 1024
+    },
+    {
         "key": "640x960",
         "name": "iPhone 4",
         "width": 640,
         "height": 960
     },
     {
-        "key": "640×1136",
+        "key": "640x1136",
         "name": "iPhone 5",
         "width": 640,
         "height": 1136
