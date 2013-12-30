@@ -12,16 +12,22 @@
         "height": 800
     },
     {
-        "key": "640x960",
+        "key": "320x480",
         "name": "iPhone 4",
-        "width": 640,
-        "height": 960
+        "width": 320,
+        "height": 480
     },
     {
-        "key": "640×1136",
+        "key": "320x640",
         "name": "iPhone 5",
-        "width": 640,
-        "height": 1136
+        "width": 320,
+        "height": 568
+    },
+    {
+        "key": "640×640",
+        "name": "Samsung S4",
+        "width": 360,
+        "height": 640
     },
     {
         "key": "768x1024",
