@@ -24,6 +24,12 @@
         "height": 1136
     },
     {
+        "key": "640×640",
+        "name": "Samsung S4",
+        "width": 360,
+        "height": 640
+    },
+    {
         "key": "768x1024",
         "name": "iPad",
         "width": 768,
